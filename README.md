@@ -2,6 +2,10 @@
 
 SQLSense is a Flask-based REST API that converts natural language queries into SQL statements and generates database schemas from descriptions using AI.
 
+## 🚀 Live Demo
+Click the button to open the running app:  
+[Open SQL Sense (Live)](https://sql-sense-omega.vercel.app/
+
 ## Features
 
 - 🔤 **Natural Language to SQL**: Convert plain English queries to SQL statements.
